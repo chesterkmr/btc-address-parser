@@ -1,0 +1,20 @@
+{
+  "name": "btc-address-parser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bip32": "^3.0.1",
+    "bitcoinjs-lib": "^6.0.1",
+    "ecpair": "^2.0.1",
+    "node-bash-title": "^0.0.2",
+    "tiny-secp256k1": "^2.2.1"
+  }
+}
